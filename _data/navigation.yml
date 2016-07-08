@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Guía de Inicio"
-    url: /pages/
+    url: /pages/index.md
 
   - title: "Posts"
     url: /posts/
