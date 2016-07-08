@@ -100,12 +100,12 @@ include:
 
 #Colecciones
 collections:
-  pages:
+  paginas:
     output: true
 defaults:
 - scope:
     path: ""
-    type: pages
+    type: paginas
   values:
     layout: page
   
