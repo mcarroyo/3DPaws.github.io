@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Bienvenidos al Blog del curso
 autor: Oscar Campo
 ---
 
