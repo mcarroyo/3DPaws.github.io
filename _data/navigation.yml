@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Guía de Inicio"
-    url: newpaws.github.io/instrucciones/
+    url: https://newpaws.github.io/instrucciones/
 
   - title: "Posts"
     url: /posts/
