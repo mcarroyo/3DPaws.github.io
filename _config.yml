@@ -96,8 +96,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-
-include: ["_pages"]  
+  - _pages  
 #permalink: /Instrucciones/  
 exclude:
   - "*.sublime-project"
