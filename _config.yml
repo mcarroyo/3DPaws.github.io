@@ -97,7 +97,7 @@ author:
 include:
   - .htaccess
 
-#include: ["_pages"]  
+include: ["_pages"]  
 #permalink: /Instrucciones/  
 exclude:
   - "*.sublime-project"
