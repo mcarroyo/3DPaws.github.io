@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Guía de Inicio"
-    url: _pages/Instrucciones.md
+    url: /pages/
 
   - title: "Posts"
     url: /year-archive/
