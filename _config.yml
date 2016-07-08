@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "NewPaws"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Oscar Campo & Andrés González"
+description              : "Información sobre prótesis para mascotas desarrolladas por estudiantes de la Universidad Autónoma de Occidente, (Cali, Colombia)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :@OscarCampo_
 facebook:
   username               :
   app_id                 :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Oscar Campo"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Mechanical engineer and associated professor at Universidad Autonoma de Occidente in Cali, Colombia. I hold a PhD in Electrical and Electronics Engineering from the University of Valle in Cali, Colombia. My doctoral research was in Bio-inspired Control Strategies for Prostheses for After Knee Amputees. I hold MS degree in Mechanical Engineering from University of Los Andes and my major interest areas are Mechanical and Biomechanical Design, 3D CAD and Digital Fabrication."
+  location         : "Cali, Colombia"
+  email            : "oicampo@uao.edu.co"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,7 +75,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "oscampo"
   google_plus      :
   keybase          :
   instagram        :
