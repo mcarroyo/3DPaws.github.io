@@ -97,7 +97,18 @@ author:
 include:
   - .htaccess
   - _pages  
-#permalink: /Instrucciones/  
+
+#Colecciones
+collections:
+  - pages
+defaults:
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
+  
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
