@@ -6,6 +6,6 @@ Se pretende desarrollar un sentido de pertenencia y responsabilidad con las dem�
 
 Todos los diseños y material en esta página son de dominio público y se acogen a la siguiente descripción de licencia de creative commons:
 
-![Licencia CC Atribución](http://co.creativecommons.org/wp-content/uploads/2008/02/by.png)
+![Licencia CC Atribución](http://co.creativecommons.org/wp-content/uploads/2008/02/by-nc-sa.png)
 
-**Atribución**: Esta licencia permite a otros distribuir, mezclar, ajustar y construir a partir de su obra, incluso con fines comerciales, siempre que le sea reconocida la autoría de la creación original. Esta es la licencia más servicial de las ofrecidas. Recomendada para una máxima difusión y utilización de los materiales sujetos a la licencia.
+ **Atribución – No comercial – Compartir igual**: Esta licencia permite a otros distribuir, remezclar, retocar, y crear a partir de tu obra de modo no comercial, siempre y cuando te den crédito y licencien sus nuevas creaciones bajo las mismas condiciones.
