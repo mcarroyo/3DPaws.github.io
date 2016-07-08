@@ -100,7 +100,8 @@ include:
 
 #Colecciones
 collections:
-  - pages
+  pages:
+    output: true
 defaults:
 - scope:
     path: ""
