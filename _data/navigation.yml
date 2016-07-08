@@ -13,7 +13,7 @@ main:
     url: /tags/
 
   - title: "Pages"
-    url: /page-archive/
+    url: https://newpaws.github.io/pages/
 
   - title: "Collections"
     url: /collection-archive/
