@@ -26,11 +26,13 @@ Al aceptar la invitación serás redirigido hasta la página de confirmación de
 
 Para avanzar, haz click en **3DPaws.github.io**, de esta manera entrarás al *Repositorio* del sitio. En el repositorio verás toda la estructura de carpetas y archivos que conforman el sitio web [3DPaws.github.io](https://3DPaws.github.io)
 
+![Repositorio 3DPaws](https://3DPaws.github.io/images/repositorio3DPaws.png)
+
 Debes tener en cuenta que es necesario conservar el orden dentro del repositorio, debido a que no eres el único que va a escribir posts en esta página web. Es necesario que coloques tus posts exclusivamente en la ubicación que se te asigne.
 
 Para escribir tu primer post en 3DPaws debes familiarizarte con [MarkDown](https://daringfireball.net/projects/markdown/). Markdown permite la escritura de estilo de texto de manera sencilla. 
 
 ## Publica tu primer post ##
-
+En el repositorio haz click sobre la carpeta **_posts** 
 
 
