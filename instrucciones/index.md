@@ -74,7 +74,7 @@ Es momento de escribir tu primer post:
      autor: Oscar Campo
      ---
 
-4-Escribe el contenido del post:
+4- Escribe el contenido del post:
 
      # Mi saludo #
       
