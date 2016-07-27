@@ -64,13 +64,16 @@ Es momento de escribir tu primer post:
 
 3. Escribe el encabezado del post:
 
+
     ---
     layout: post
     title: Este es mi saludo al mundo!!
     autor: Fulanito de Tal
     ---
 
+
 4. Escribe el contenido del post:
+
 
    # Mi saludo #
     
