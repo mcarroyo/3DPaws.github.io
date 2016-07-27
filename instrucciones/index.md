@@ -89,4 +89,9 @@ Es momento de escribir tu primer post:
 Una vez que haz terminado de escribir tu post debes enviar o "proponer" tu trabajo al editor de 3DPaws, quien revisará lo que hiciste y decidirá si se publica o no :) . En la parte inferior de la página está la sección **Propose new file** y el botón del mismo nombre. 
 ![Proponer Nuevo Archivo](http://3DPaws.github.io/images/ProponerNuevoArchivo.png)
 
-Por defecto, en esa sección aparecerá en el primer recuadro gris un título que sugiere la acción que haz acabado de realizar, en este caso, *Create 2016-07-27-hola-mundo.md* . De ser necesario, en el recuadro bajo ese título puedes colocar comentarios adicionales para el editor de 3DPaws. Haz click en el botón **Propose new file**
+Por defecto, en esa sección aparecerá en el primer recuadro gris un título que sugiere la acción que haz acabado de realizar, en este caso, *Create 2016-07-27-hola-mundo.md* . De ser necesario, en el recuadro bajo ese título puedes colocar comentarios adicionales para el editor de 3DPaws. Haz click en el botón **Propose new file**.
+
+## Solicita una revisión ##
+Luego de haber enviado tu propuesta serás direccionado a una página con mucha información. Por lo pronto vamos a concentrarnos en la acción que debes ejecutar aquí.
+
+es necesario solicitar la revisión al editor de 3DPaws
