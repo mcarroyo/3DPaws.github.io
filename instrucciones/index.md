@@ -33,6 +33,30 @@ Debes tener en cuenta que es necesario conservar el orden dentro del repositorio
 Para escribir tu primer post en 3DPaws debes familiarizarte con [MarkDown](https://daringfireball.net/projects/markdown/). Markdown permite la escritura de estilo de texto de manera sencilla. 
 
 ## Publica tu primer post ##
-En el repositorio haz click sobre la carpeta **_posts** 
+En el repositorio haz click sobre la carpeta **_posts**, verás los archivos incluidos en esa carpeta, los cuales tienen un nombre que sigue el siguiente formato:
 
+    año-mes-dia-titulo-del-post.md
 
+Haz click sobre "2016-07-08-Primer-post.md", verás el siguiente contenido:
+![Primer post](https://3DPaws.github.io/images/PrimerPost.png)
+En la parte superior, como una tabla, aparece el encabezado del post y luego, el contenido. El título y las palabras en negrilla aparecen según el estilo que se ha definido según el formato [MarkDown](https://daringfireball.net/projects/markdown/).  Para ver cómo está escrito este post puedes hacer click en el ícono de lápiz en la parte derecha.
+
+Podrás ver que este post tiene la siguiente estructura:
+    ---
+    layout: post
+    title: Bienvenidos al Blog del curso
+    autor: Oscar Campo
+    ---
+    
+    
+    # Este es el primer post #
+    
+    En este archivo puedes ver que la estructura es **bastante** sencilla.
+  
+La primera parte, que inicia y termina con "---" es el encabezado en formato [YAML](https://jekyllrb.com/docs/frontmatter/) y es **necesario** y **obligatorio** que se escriba de esa manera, esto hace que la publicación del post suceda de manera correcta.  Después del encabezado está el contenido del post, el cual está en formato MarkDown.
+
+Ahora que conoces la estructura de un post, cierra este primer post haciendo click en el botón CANCEL en la parte de abajo, al final de la página.
+
+Es momento de escribir tu primer post:
+1. Haz click en **Create new file**
+2. 
