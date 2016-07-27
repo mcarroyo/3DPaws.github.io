@@ -63,6 +63,8 @@ Es momento de escribir tu primer post:
 
 1 Haz click en **Create new file**
 
+![Escribe primer post](https://3DPaws.github.io/images/EscribirPrimerPost.png)
+
 2 Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  
   Puedes escribir por ejemplo: **2016-07-27-hola-mundo.md**
 
@@ -82,6 +84,9 @@ Es momento de escribir tu primer post:
 
 5 Puedes ver cómo quedará el estilo de tu post haciendo click en la pestaña **Preview** en la parte superior del editor.  Puedes volver nuevamente al editor haciendo click en la pestaña **<>Edit new file**. 
 
-## "Encomienda" tu trabajo ##
+## Envía tu "Propuesta" ##
 
-Una vez que haz terminado de escribir tu post debes enviar o "encomendar" tu trabajo al editor de 3DPaws, quien revisará lo que hiciste y decidirá si se publica o no :) . 
+Una vez que haz terminado de escribir tu post debes enviar o "proponer" tu trabajo al editor de 3DPaws, quien revisará lo que hiciste y decidirá si se publica o no :) . En la parte inferior de la página está la sección **Propose new file** y el botón del mismo nombre. 
+![Proponer Nuevo Archivo](http://3DPaws.github.io/images/ProponerNuevoArchivo.png)
+
+Por defecto, en esa sección aparecerá en el primer recuadro gris un título que sugiere la acción que haz acabado de realizar, en este caso, *Create 2016-07-27-hola-mundo.md* . De ser necesario, en el recuadro bajo ese título puedes colocar comentarios adicionales para el editor de 3DPaws. Haz click en el botón **Propose new file**
