@@ -61,12 +61,12 @@ Ahora que conoces la estructura de un post, cierra este primer post haciendo cli
 
 Es momento de escribir tu primer post:
 
-1- Haz click en **Create new file**
+1 Haz click en **Create new file**
 
-2- Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  
+2 Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  
   Puedes escribir por ejemplo: **2016-07-27-hola-mundo.md**
 
-3- Escribe el encabezado del post:
+3 Escribe el encabezado del post:
 
      ---
      layout: post
@@ -74,8 +74,14 @@ Es momento de escribir tu primer post:
      autor: Oscar Campo
      ---
 
-4- Escribe el contenido del post:
+4 Escribe el contenido del post:
 
      # Mi saludo #
       
      Este es un post en donde oficialmente digo en la web **Hola Mundo**.  
+
+5 Puedes ver cómo quedará el estilo de tu post haciendo click en **Preview** en la parte superior del editor.  Puedes volver
+
+## "Encomienda" tu trabajo ##
+
+Una vez que haz terminado de escribir tu post debes 
