@@ -80,8 +80,8 @@ Es momento de escribir tu primer post:
       
      Este es un post en donde oficialmente digo en la web **Hola Mundo**.  
 
-5 Puedes ver cómo quedará el estilo de tu post haciendo click en **Preview** en la parte superior del editor.  Puedes volver
+5 Puedes ver cómo quedará el estilo de tu post haciendo click en la pestaña **Preview** en la parte superior del editor.  Puedes volver nuevamente al editor haciendo click en la pestaña **<>Edit new file**. 
 
 ## "Encomienda" tu trabajo ##
 
-Una vez que haz terminado de escribir tu post debes 
+Una vez que haz terminado de escribir tu post debes enviar o "encomendar" tu trabajo al editor de 3DPaws, quien revisará lo que hiciste y decidirá si se publica o no :) . 
