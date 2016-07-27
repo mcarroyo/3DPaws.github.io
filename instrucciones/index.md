@@ -60,22 +60,20 @@ La primera parte, que inicia y termina con "---" es el encabezado en formato [YA
 Ahora que conoces la estructura de un post, cierra este primer post haciendo click en el botón CANCEL en la parte de abajo, al final de la página.
 
 Es momento de escribir tu primer post:
-1. Haz click en **Create new file**
+-Haz click en **Create new file**
 
-2. Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  Escribe por ejemplo: **2016-07-27-hola-mundo.md**
+-Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  Escribe por ejemplo: **2016-07-27-hola-mundo.md**
 
-3. Escribe el encabezado del post:
+-Escribe el encabezado del post:
 
-      ---
-      layout: post
-      title: Este es mi saludo al mundo!!
-      autor: Fulanito de Tal
-      ---
+     ---
+     layout: post
+     title: Bienvenidos al Blog del curso
+     autor: Oscar Campo
+     ---
 
-
-4. Escribe el contenido del post:
-
+-Escribe el contenido del post:
 
      # Mi saludo #
       
-      Este es un post en donde oficialmente digo en la web **Hola Mundo**.  
+     Este es un post en donde oficialmente digo en la web **Hola Mundo**.  
