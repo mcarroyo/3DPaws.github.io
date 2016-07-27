@@ -42,16 +42,18 @@ Haz click sobre "2016-07-08-Primer-post.md", verás el siguiente contenido:
 En la parte superior, como una tabla, aparece el encabezado del post y luego, el contenido. El título y las palabras en negrilla aparecen según el estilo que se ha definido según el formato [MarkDown](https://daringfireball.net/projects/markdown/).  Para ver cómo está escrito este post puedes hacer click en el ícono de lápiz en la parte derecha.
 
 Podrás ver que este post tiene la siguiente estructura:
-    ---
-    layout: post
-    title: Bienvenidos al Blog del curso
-    autor: Oscar Campo
-    ---
-    
-    
-    # Este es el primer post #
-    
-    En este archivo puedes ver que la estructura es **bastante** sencilla.
+
+
+     ---
+     layout: post
+     title: Bienvenidos al Blog del curso
+     autor: Oscar Campo
+     ---
+      
+      
+      # Este es el primer post #
+      
+      En este archivo puedes ver que la estructura es **bastante** sencilla.
   
 La primera parte, que inicia y termina con "---" es el encabezado en formato [YAML](https://jekyllrb.com/docs/frontmatter/) y es **necesario** y **obligatorio** que se escriba de esa manera, esto hace que la publicación del post suceda de manera correcta.  Después del encabezado está el contenido del post, el cual está en formato MarkDown.
 
@@ -64,17 +66,16 @@ Es momento de escribir tu primer post:
 
 3. Escribe el encabezado del post:
 
-
-    ---
-    layout: post
-    title: Este es mi saludo al mundo!!
-    autor: Fulanito de Tal
-    ---
+      ---
+      layout: post
+      title: Este es mi saludo al mundo!!
+      autor: Fulanito de Tal
+      ---
 
 
 4. Escribe el contenido del post:
 
 
-   # Mi saludo #
-    
-    Este es un post en donde oficialmente digo en la web **Hola Mundo**.
+     # Mi saludo #
+      
+      Este es un post en donde oficialmente digo en la web **Hola Mundo**.  
