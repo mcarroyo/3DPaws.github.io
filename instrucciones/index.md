@@ -44,13 +44,13 @@ En la parte superior, como una tabla, aparece el encabezado del post y luego, el
 Podrás ver que este post tiene la siguiente estructura:
 
 
-     ---
-     layout: post
-     title: Bienvenidos al Blog del curso
-     autor: Oscar Campo
-     ---
-      
-      
+      ---
+      layout: post
+      title: Bienvenidos al Blog del curso
+      autor: Oscar Campo
+      ---
+     
+     
       # Este es el primer post #
       
       En este archivo puedes ver que la estructura es **bastante** sencilla.
