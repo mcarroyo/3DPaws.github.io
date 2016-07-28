@@ -66,14 +66,14 @@ Es momento de escribir tu primer post:
 ![Escribe primer post](https://3DPaws.github.io/images/EscribirPrimerPost.png)
 
 2 Escribe el título de tu nuevo archivo siguiendo el formato **año-mes-dia-titulo-del-post.md**.  
-  Puedes escribir por ejemplo: **2016-07-27-hola-mundo.md**
+  Puedes escribir por ejemplo: **2016-07-27-hola-mundo.md**. `ES MUY IMPORTANTE QUE ESCRIBAS ".MD" AL FINAL DEL TÍTULO `
 
 3 Escribe el encabezado del post:
 
      ---
      layout: post
-     title: Bienvenidos al Blog del curso
-     autor: Oscar Campo
+     title: Hola Mundo desde 3DPaws!
+     autor: Fulanito de Tal
      ---
 
 4 Escribe el contenido del post:
