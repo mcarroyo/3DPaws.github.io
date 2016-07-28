@@ -1,4 +1,4 @@
-# Diseño de Prótesis para Mascotas (NewPaws)#
+# Diseño de Prótesis para Mascotas (3DPaws)#
 
 En esta página se documentan los diseños desarrollados por estudiantes de la Universidad Autónoma de Occidente en el marco de generar soluciones a mascotas en situación de discapacidad.
 
