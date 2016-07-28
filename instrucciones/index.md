@@ -94,7 +94,7 @@ Por defecto, en esa sección aparecerá en el primer recuadro gris un título qu
 ## Solicita una revisión ##
 Luego de haber enviado tu propuesta serás direccionado a una página con mucha información. Por lo pronto vamos a concentrarnos en la acción que debes ejecutar aquí.
 ![Crear solicitud](https://3DPaws.github.io/images/CrearSolicitud.png)
-Aquí es necesario solicitar la revisión al editor de 3DPaws, para esto debes hacer click en el botón **Create pull request**. Nuevamente se generará automáticamente un título para tu solicitud, en este caso *"Create 2016-07-27-hola-mundo.md"* y de igual forma podrás adicionar comentarios a tu solicitud. Haz click en el botón **Create pull request*.
+Aquí es necesario solicitar la revisión al editor de 3DPaws, para esto debes hacer click en el botón **Create pull request**. Nuevamente se generará automáticamente un título para tu solicitud, en este caso *"Create 2016-07-27-hola-mundo.md"* y de igual forma podrás adicionar comentarios a tu solicitud. Haz click en el botón **Create pull request**.
 
 # Listo!! has enviado tu primer post a 3DPaws.github.io #
 
