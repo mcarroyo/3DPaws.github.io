@@ -12,11 +12,11 @@ main:
   - title: "Tags"
     url: /tags/
 
-  - title: "Pages"
+  - title: "Páginas"
     url: /archivo-paginas/
 
   - title: "Collections"
     url: /collection-archive/
 
-  - title: "External Link"
-    url: https://google.com
+  - title: "Ingeniería Biomédica"
+    url: http://www.uao.edu.co/ingenieria/ingenieria-biomedica
