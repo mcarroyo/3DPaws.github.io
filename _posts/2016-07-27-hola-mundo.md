@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post
 title: Mi saludo al mundo!
 autor: Fulanito de Tal
 ---
