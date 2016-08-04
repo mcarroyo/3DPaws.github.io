@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Bienvenidos al Blog del curso
 autor: Oscar Campo
 ---
