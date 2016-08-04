@@ -100,14 +100,14 @@ include:
 
 #Colecciones
 collections:
-  portfolio:
+  casos:
     output: true
     permalink: /:collection/:path/
 defaults:
-  # _portfolio
+  # _casos
   - scope:
       path: ""
-      type: portfolio
+      type: casos
     values:
       layout: single
       author_profile: true
