@@ -2,8 +2,8 @@
 title: "Nuestro primer caso"
 excerpt: "Página de ejemplo para documentación de un caso."
 header:
-  image: http://www.3ders.org/images2016/romina-first-dog-mexico-receive-3d-printed-prosthetic-leg6.jpg
-  teaser: foo-bar-identity-th.jpg
+  image: https://3dpaws.github.io/images/romina1.jpg
+  teaser: https://3dpaws.github.io/images/romina1.jpg
 sidebar:
   - title: "Equipo 3D Paws"
     image: https://opintopolku.fi/wp/wp-content/uploads/2014/04/4836608831_50cd0cb848_z.jpg
@@ -11,14 +11,14 @@ sidebar:
     text: "Diseño y fabricación de prótesis veterinarias"
   
 gallery:
-  - url: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
-    image_path: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
+  - url: https://3dpaws.github.io/images/romina2.jpg
+    image_path: https://3dpaws.github.io/images/romina2.jpg
     alt: "placeholder image 1"
-  - url: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
-    image_path: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
+  - url: https://3dpaws.github.io/images/romina3.jpg
+    image_path: https://3dpaws.github.io/images/romina3.jpg
     alt: "placeholder image 2"
-  - url: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
-    image_path: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
+  - url: https://3dpaws.github.io/images/romina4.jpg
+    image_path: https://3dpaws.github.io/images/romina4.jpg
     alt: "placeholder image 3"
 ---
 
