@@ -1,7 +1,3 @@
-------
-Title: Hola
-Author: Oscar Campo
-------
-
+# Este es nuestro primer caso #
 
 Hola *Hola* **Hola**
