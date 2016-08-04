@@ -24,6 +24,6 @@ gallery:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut consequat augue, et interdum enim. Nulla mattis ultricies ornare. Suspendisse quis turpis dictum, egestas mi eu, convallis odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed eu congue massa. Aliquam mollis sit amet orci vitae finibus. Aliquam quis tristique lectus, sed pulvinar erat. Sed quis egestas felis. Ut auctor venenatis maximus. Praesent porttitor fringilla enim, non pulvinar ligula varius nec. Nunc quis tristique nunc.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Esta es una galería de imágenes de ejemplo para este caso." %}
 
 Morbi rhoncus ante et consectetur pretium. Maecenas finibus sodales accumsan. Nunc eu blandit justo, a blandit turpis. Curabitur bibendum est justo, at iaculis ex ultrices at. In id lacus et mauris rutrum consectetur. Proin a ornare elit. Nam in nulla quis magna congue posuere ac eu tellus. In a turpis ante. Nunc aliquet urna quis ipsum laoreet, ac aliquet tellus vehicula. Suspendisse non ipsum vulputate, tempor sapien vitae, vestibulum lorem. Curabitur et metus posuere, ultrices arcu in, commodo erat. Praesent sed mi ligula. Nulla facilisi.
