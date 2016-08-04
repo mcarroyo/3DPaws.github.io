@@ -100,13 +100,14 @@ include:
 
 #Colecciones
 collections:
-  paginas:
+  potfolio:
     output: true
+    permalink: /:collection/:path/
 defaults:
-  # _paginas
+  # _portfolio
   - scope:
       path: ""
-      type: paginas
+      type: portfolio
     values:
       layout: single
       author_profile: true
