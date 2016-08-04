@@ -2,7 +2,7 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: foo-bar-identity.jpg
+  image: http://www.3ders.org/images2016/romina-first-dog-mexico-receive-3d-printed-prosthetic-leg6.jpg
   teaser: foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
