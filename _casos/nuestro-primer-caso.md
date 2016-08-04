@@ -5,12 +5,11 @@ header:
   image: http://www.3ders.org/images2016/romina-first-dog-mexico-receive-3d-printed-prosthetic-leg6.jpg
   teaser: foo-bar-identity-th.jpg
 sidebar:
-  - title: "Role"
+  - title: "Equipo 3D Paws"
     image: https://opintopolku.fi/wp/wp-content/uploads/2014/04/4836608831_50cd0cb848_z.jpg
-    image_alt: "logo"
-    text: "Diseño y fabricación"
-  - title: "Responsibilidades"
-    text: "Generación de conceptos, diseño de detalle, fabricación"
+    image_alt: "Equipo 3D Paws"
+    text: "Diseño y fabricación de prótesis veterinarias"
+  
 gallery:
   - url: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
     image_path: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
