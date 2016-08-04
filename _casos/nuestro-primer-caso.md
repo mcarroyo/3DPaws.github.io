@@ -13,10 +13,10 @@ sidebar:
     text: "Generación de conceptos, diseño de detalle, fabricación"
 gallery:
   - url: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
-    image_path: unsplash-gallery-image-1-th.jpg
+    image_path: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
     alt: "placeholder image 1"
   - url: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
+    image_path: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
     alt: "placeholder image 2"
   - url: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
     image_path: unsplash-gallery-image-3-th.jpg
