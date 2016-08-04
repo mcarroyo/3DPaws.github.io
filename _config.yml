@@ -100,7 +100,7 @@ include:
 
 #Colecciones
 collections:
-  potfolio:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 defaults:
