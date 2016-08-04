@@ -6,7 +6,7 @@ header:
   teaser: foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://opintopolku.fi/wp/wp-content/uploads/2014/04/4836608831_50cd0cb848_z.jpg
     image_alt: "logo"
     text: "Diseño y fabricación"
   - title: "Responsibilidades"
