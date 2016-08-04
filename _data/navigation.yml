@@ -3,8 +3,8 @@ main:
   - title: "Guía de Inicio"
     url: /instrucciones/
 
-  - title: "Posts"
-    url: /posts/
+  - title: "Casos"
+    url: /casos/
 
   - title: "Categories"
     url: /categories/
