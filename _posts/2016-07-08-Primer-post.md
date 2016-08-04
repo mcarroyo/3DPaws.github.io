@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: archive
 title: Bienvenidos al Blog del curso
 autor: Oscar Campo
 ---
