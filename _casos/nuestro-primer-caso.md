@@ -19,7 +19,7 @@ gallery:
     image_path: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
     alt: "placeholder image 2"
   - url: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
-    image_path: unsplash-gallery-image-3-th.jpg
+    image_path: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
     alt: "placeholder image 3"
 ---
 
