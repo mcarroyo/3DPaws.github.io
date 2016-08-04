@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Nuestro primer caso"
+excerpt: "Página de ejemplo para documentación de un caso."
 header:
   image: http://www.3ders.org/images2016/romina-first-dog-mexico-receive-3d-printed-prosthetic-leg6.jpg
   teaser: foo-bar-identity-th.jpg
@@ -8,23 +8,23 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Diseño y fabricación"
+  - title: "Responsibilidades"
+    text: "Generación de conceptos, diseño de detalle, fabricación"
 gallery:
-  - url: unsplash-gallery-image-1.jpg
+  - url: https://3druck.com/wp-content/uploads/2016/01/3D_printed_prosthetic_leg_dog.jpg
     image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-  - url: unsplash-gallery-image-2.jpg
+  - url: http://marketsvoice.com/public/files/7121138-3x2-940x627.jpg
     image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: unsplash-gallery-image-3.jpg
+  - url: http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2016/01/28/protesis_perro.jpg?itok=8u67x8At
     image_path: unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut consequat augue, et interdum enim. Nulla mattis ultricies ornare. Suspendisse quis turpis dictum, egestas mi eu, convallis odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed eu congue massa. Aliquam mollis sit amet orci vitae finibus. Aliquam quis tristique lectus, sed pulvinar erat. Sed quis egestas felis. Ut auctor venenatis maximus. Praesent porttitor fringilla enim, non pulvinar ligula varius nec. Nunc quis tristique nunc.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Morbi rhoncus ante et consectetur pretium. Maecenas finibus sodales accumsan. Nunc eu blandit justo, a blandit turpis. Curabitur bibendum est justo, at iaculis ex ultrices at. In id lacus et mauris rutrum consectetur. Proin a ornare elit. Nam in nulla quis magna congue posuere ac eu tellus. In a turpis ante. Nunc aliquet urna quis ipsum laoreet, ac aliquet tellus vehicula. Suspendisse non ipsum vulputate, tempor sapien vitae, vestibulum lorem. Curabitur et metus posuere, ultrices arcu in, commodo erat. Praesent sed mi ligula. Nulla facilisi.
